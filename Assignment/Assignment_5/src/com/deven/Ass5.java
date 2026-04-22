@@ -1,9 +1,9 @@
 package com.deven;
 
-public class Ass4 
+public class Ass5 
 {
 
-	public Ass4() 
+	public Ass5() 
 	{
 		// TODO Auto-generated constructor stub
 	}

@@ -15,14 +15,14 @@ public class FruitBasket {
 
         do {
             System.out.println("\n0. Exit");
-            System.out.println("1. Add Mango");
-            System.out.println("2. Add Orange");
-            System.out.println("3. Add Apple");
-            System.out.println("4. Display names of all fruits");
-            System.out.println("5. Display fresh fruits details");
-            System.out.println("6. Display tastes of stale fruits");
-            System.out.println("7. Mark fruit as stale (by index)");
-            System.out.println("8. Mark all sour fruits stale");
+            System.out.println("1.Add Mango");
+            System.out.println("2.Add Orange");
+            System.out.println("3.Add Apple");
+            System.out.println("4.Display names of all fruits");
+            System.out.println("5.Display fresh fruits details");
+            System.out.println("6.Display tastes of stale fruits");
+            System.out.println("7.Mark fruit as stale (by index)");
+            System.out.println("8.Mark all sour fruits stale");
 
             System.out.print("Enter choice: ");
             choice = sc.nextInt();
